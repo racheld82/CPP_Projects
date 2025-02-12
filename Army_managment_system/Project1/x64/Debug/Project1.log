@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\Project1\Project1\main.cpp(95): warning C4172: returning address of local variable or temporary: maxS
-  Project1.vcxproj -> D:\Project1\x64\Debug\Project1.exe
